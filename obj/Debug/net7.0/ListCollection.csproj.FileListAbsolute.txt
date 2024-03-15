@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/bin/Debug/net7.0/ListCollection
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/bin/Debug/net7.0/ListCollection.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/bin/Debug/net7.0/ListCollection.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/bin/Debug/net7.0/ListCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/bin/Debug/net7.0/ListCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/obj/Debug/net7.0/ListCollection.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/obj/Debug/net7.0/ListCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/obj/Debug/net7.0/ListCollection.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/obj/Debug/net7.0/ListCollection.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/obj/Debug/net7.0/ListCollection.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/obj/Debug/net7.0/ListCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/obj/Debug/net7.0/refint/ListCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/obj/Debug/net7.0/ListCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/obj/Debug/net7.0/ListCollection.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/ListCollection/obj/Debug/net7.0/ref/ListCollection.dll
